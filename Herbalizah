@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am herbalizah on github.
+  * I am herbalizah (https://keybase.io/herbalizah) on keybase.
+  * I have a public key ASD_KsvZx5-La-9QijvX7OfLN-wo1-XRNBrmSVpFMOSfbgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ff2acbd9c79f8b6bef508a3bd7ece7cb37ec28d7e5d1341ae6495a4530e49f6e0a",
+      "host": "keybase.io",
+      "kid": "0120ff2acbd9c79f8b6bef508a3bd7ece7cb37ec28d7e5d1341ae6495a4530e49f6e0a",
+      "uid": "d2ccafe3000995f3bced3c8a1f620f19",
+      "username": "herbalizah"
+    },
+    "merkle_root": {
+      "ctime": 1568188495,
+      "hash": "4f8cdad788c38de08c97b436330f7780683bbf00f9fe08bdb4cfbaf7f2c7d6b107f406b4eb8c6e25f7e879e6d2c101d4ca40b704095599ec5bb19de40bd6a4c2",
+      "hash_meta": "55c13384a708e9f11ad082d79e5e56163ed29916833af56a67996d6f0e424910",
+      "seqno": 6636458
+    },
+    "service": {
+      "entropy": "ITYraZn34d8nPdWhgazFPghA",
+      "name": "github",
+      "username": "herbalizah"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568188584,
+  "expire_in": 504576000,
+  "prev": "6cb499d296e7da7bff61e52c084454def8f833416657c5f5a14912aa6b6a3ce4",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASD_KsvZx5-La-9QijvX7OfLN-wo1-XRNBrmSVpFMOSfbgo](https://keybase.io/herbalizah), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/yrL2cefi2vvUIo71+znyzfsKNfl0TQa5klaRTDkn24Kp3BheWxvYWTESpcCBcQgbLSZ0pbn2nv/YeUsCERU3vj4M0FmV8X1oUkSqmtqPOTEIHB/oP3tBbJRxR6nSWtqH3VXi/3FnTtcgr8Vfzni/Z9HAgHCo3NpZ8RAbS0cQbjgqd6+q6pn/Ga0VPo/FZxopd90/75N/lfP/+hiQ5gfiPeauriQkONCPcy592AZnKt22ZhWK3g/5DRwDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIwxPd3wAZWrEqW3u6DfjS8R5TE+qeYr8ZpMdabpf7rdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/herbalizah
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id herbalizah
+```
